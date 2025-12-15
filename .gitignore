@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints*
+
+# Python
+__pycache__/
+
+# Optimization outputs (if generated)
+*.ilp
+*.lp
