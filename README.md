@@ -1,4 +1,4 @@
-This repository contains my work from the Fall 2024 System Optimization / Operations Research course, where I formulated and solved real engineering decision-making problems using mathematical optimization.
+This repository contains my work from the Fall 2024 System Optimization / Operations Research course and Spring 2025 Advanced Optimization, where I formulated and solved real engineering decision-making problems using mathematical optimization.
 
 The repository includes:
 	•	Homework, quizzes, and selected exam problems
